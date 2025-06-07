@@ -10,8 +10,8 @@ const fs = require('fs');
 // MySQL database configuration
 const database = mysql.createConnection({
     host: "gateway01.eu-central-1.prod.aws.tidbcloud.com",
-    user: "415Ln4hG4jE7gKH.root",
-    password: "y4PZp0NdvFGjRoOj",
+    user: "2N4vzk5eTPJuHsm.root",
+    password: "ONSoXmJhI5nGGbLF",
     database: "test",
     port:4000,
     ssl: {
